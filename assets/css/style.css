@@ -106,10 +106,6 @@ header nav ul li a {
     text-align: center;
     }
 
-.primary-border {
-    border-color: #fce138;
-}
-
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -128,6 +124,10 @@ header nav ul li a {
     padding: 40px 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid; 
+}
+
+.primary-border {
+    border-color: #fce138;
 }
 
 /* apply styles to what-you-do */
@@ -217,7 +217,7 @@ header nav ul li a {
 .contact {
     background-color: #024e76;
     text-align: center;
-    padding-bottom: 40px;
+    padding-bottom: px;
 }
 
 .contact h2 {
